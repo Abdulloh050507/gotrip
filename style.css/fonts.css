@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'RI';
+    src: url(../fonts/Rubik-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'RV';
+    src: url(../fonts/Rubik-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'IB';
+    src: url(../fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
